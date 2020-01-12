@@ -1,3 +1,0 @@
-tail -f /var/log/syslog &
-
-# Commands running in the background can be seen with the command "jobs"

@@ -1,3 +1,0 @@
-sudo killall -u USERNAME && sudo deluser --remove-home -f USERNAME
-
-# kills all processes from USERNAME so deluser won't complain about active processes.
